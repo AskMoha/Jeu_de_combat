@@ -1,0 +1,25 @@
+Personnage 1:
+	
+-Q=deplacement à gauche
+-D=deplacement à droite
+-Z=deplacement vers le haut
+-S=deplacement vers le bas
+-E=attaque basique
+-R=coup de pied
+-F=charger l'energie
+-C=attaque spéciale
+
+
+
+Personnage 2:
+
+
+-4=deplacement à gauche
+-6=deplacement à droite
+-8=deplacement vers le haut
+-5=deplacement vers le bas
+-9=attaque basique
+-7=coup de pied
+-3=charger l'energie
+-1=attaque spéciale
+
